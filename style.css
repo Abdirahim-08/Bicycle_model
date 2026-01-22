@@ -19,4 +19,7 @@ section {
   box-shadow: 2px 2px 30px 2px;
   padding: 4rem;
   border-radius: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem 0;
 }
