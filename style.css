@@ -13,3 +13,10 @@ body {
   line-height: 1.5;
 }
 
+section {
+  width: 50rem;
+  margin: auto;
+  box-shadow: 2px 2px 30px 2px;
+  padding: 4rem;
+  border-radius: 1rem;
+}
