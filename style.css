@@ -45,3 +45,7 @@ img {
   align-self: flex-start;
 }
 
+.cart {
+  align-self: flex-end;
+}
+
